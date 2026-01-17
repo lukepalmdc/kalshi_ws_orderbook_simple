@@ -5,7 +5,7 @@ from cryptography.hazmat.primitives import serialization, hashes
 import time
 manager = OrderbookManager()
 
-API_KEY_ID = "b01c04ac-e3c2-4409-a631-db0de6588c63"
+API_KEY_ID = "YOUR API KEY"
 PRIVATE_KEY_PATH = "kalshikey.pem"
 
 try:
