@@ -38,7 +38,7 @@ Navigate to Account & security → API Keys
 Click Create Key
 Save both:
     Private Key: Downloaded as a .key file
-    API Key ID: Displayed on screen (looks like a952bcbe-ec3b-4b5b-b8f9-11dae589608c)
+    API Key ID: Displayed on screen
 
 
 https://docs.kalshi.com/getting_started/quick_start_authenticated_requests
