@@ -46,7 +46,7 @@ https://docs.kalshi.com/getting_started/quick_start_authenticated_requests
 
 ## Usage
 
-See demo.py for examples on using the library, aside form getting the most recent orderbook there are several function to measure liquidity and get the current best price
+See demo.py for examples on using the library, aside form getting the most recent orderbook there are several function to measure liquidity and get the current best price. Currentlyt the example is using market ticker "KXPRESPERSON-28-JVAN" which is the market ticker for jd vance presidential odds.
 
 ## Orderbook Notes
 
